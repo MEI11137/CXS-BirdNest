@@ -2,7 +2,7 @@
 
 All notable changes to the public CXS-BirdNest dataset release are documented in this file.
 
-## [v2.0.0] - 2026-08-31
+## [v2.1.0] - 2026-08-31
 
 ### Added
 
