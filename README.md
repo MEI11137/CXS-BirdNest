@@ -118,7 +118,7 @@ Mei, Y. & Li, R. *CXS-BirdNest Dataset: A Multi-scale UAV Image Dataset for Bird
   title     = {{CXS-BirdNest Dataset}: A Multi-scale UAV Image Dataset for Bird Nest Detection on Overhead Transmission Lines},
   publisher = {Zenodo},
   year      = {2026},
-  version   = {v2.0.0},
+  version   = {v2.1.0},
   doi       = {10.5281/zenodo.22202440},
   url       = {https://doi.org/10.5281/zenodo.22202440}
 }
