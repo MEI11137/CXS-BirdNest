@@ -107,7 +107,7 @@ CXS-BirdNest 采用 [Creative Commons Attribution 4.0 International License](htt
 
 使用本数据集时，请引用对应版本的 Zenodo 记录，并报告实验所用的 GitHub 发布版本：
 
-Mei, Y. & Li, R. *CXS-BirdNest Dataset: A Multi-scale UAV Image Dataset for Bird Nest Detection on Overhead Transmission Lines*. Version v2.0.0, Zenodo, https://doi.org/10.5281/zenodo.22076927 (2026).
+Mei, Y. & Li, R. *CXS-BirdNest Dataset: A Multi-scale UAV Image Dataset for Bird Nest Detection on Overhead Transmission Lines*. Version v2.1.0, Zenodo, https://doi.org/10.5281/zenodo.22202440 (2026).
 
 ```bibtex
 @dataset{mei_cxs_birdnest_2026,
@@ -116,8 +116,8 @@ Mei, Y. & Li, R. *CXS-BirdNest Dataset: A Multi-scale UAV Image Dataset for Bird
   publisher = {Zenodo},
   year      = {2026},
   version   = {v2.0.0},
-  doi       = {10.5281/zenodo.22076927},
-  url       = {https://doi.org/10.5281/zenodo.22076927}
+  doi       = {10.5281/zenodo.22202440},
+  url       = {https://doi.org/10.5281/zenodo.22202440}
 }
 ```
 
