@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "CXS-BirdNest Dataset: A Multi-scale UAV Image Dataset for Bird Nest Detection on Overhead Transmission Lines"
+authors:
+  - family-names: Mei
+    given-names: Yaozhong
+  - family-names: Li
+    given-names: Rui
+version: v2.0.0
+date-released: 2026-08-31
+doi: 10.5281/zenodo.22202440
+license: CC-BY-4.0
+repository-code: https://github.com/MEI11137/CXS-BirdNest
